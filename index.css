@@ -1,0 +1,24 @@
+body {
+    background-color: black;
+}
+
+.square {
+    height: 100px;
+}
+
+.pink {
+    background-color: hotpink;
+}
+
+.green {
+    background-color: darkgreen;
+}
+
+.hidden {
+    background-color: lightslategrey;
+    border: 1px solid darkgrey;
+}
+
+.gone {
+    visibility: hidden;
+}
